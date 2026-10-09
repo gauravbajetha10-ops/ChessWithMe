@@ -1,0 +1,8 @@
+build/
+.vs/
+.cache/
+ChessWithMe_Game/
+out/
+.vscode/
+*.user
+*.suo
