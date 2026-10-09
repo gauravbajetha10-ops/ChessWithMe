@@ -13,13 +13,13 @@ A beautifully designed, fully functional Chess application built from scratch in
 - **Time Limits:** Play with unlimited time, or set 5, 10, or 15-minute timers.
 - **Elegant UI:** A sleek dark-mode menu with embedded piece graphics and dynamic board orientation.
 
-## How to Play (Standalone Windows)
+## How to Play (Windows)
 
-If you have downloaded the **ChessWithMe_Game** folder:
-1. Extract or open the `ChessWithMe_Game` folder.
-2. Ensure the `assets` folder is present inside it.
-3. Double-click `ChessWithMe.exe` to launch the game.
-4. Select your Mode, Color, AI difficulty, and Time Limit, then hit **START GAME**!
+**The easiest way to play is to download the pre-compiled game!**
+1. Go to the **[Releases](../../releases)** page on this GitHub repository.
+2. Download the `ChessWithMe_Windows.zip` file.
+3. Extract the folder to your computer.
+4. Double-click `ChessWithMe.exe` to launch the game!
 
 ## Building from Source
 
