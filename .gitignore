@@ -6,3 +6,4 @@ out/
 .vscode/
 *.user
 *.suo
+compile_flags.txt
